@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/emman/desktop/MLOps-Zoomcamp/homework_2/mlruns/729571443761741281/e90dc86f716947d8996dbf31b4ffda80/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '729571443761741281'
+lifecycle_stage: active
+run_id: e90dc86f716947d8996dbf31b4ffda80
+run_name: grandiose-hare-852
+run_uuid: e90dc86f716947d8996dbf31b4ffda80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716580912532
+status: 1
+tags: []
+user_id: bluemusk
