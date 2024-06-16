@@ -1,7 +1,7 @@
 
 ### MLops Pipeline Project on Batch Processing (Offline Deployment)
 
-* Notebook for this homework is <homework4.ipynb>
+* Notebook for this homework is <https://github.com/bluemusk24/MLops-project/blob/main/homework_4/homework4.ipynb>
 
 * The jupyter notebook was converted to a python script with the code below:
 
@@ -9,7 +9,7 @@
 jupyter nbconvert --to script homework.ipynb
 ```
 
-* The python script generated from the conversion is <homework4.py>
+* The python script generated from the conversion is <https://github.com/bluemusk24/MLops-project/blob/main/homework_4/homework4.py>
 
 * Run this code below to get the mean of the duration prediction for April 2023:
 
