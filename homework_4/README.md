@@ -3,6 +3,8 @@
 
 * Notebook for this homework is <https://github.com/bluemusk24/MLops-project/blob/main/homework_4/homework4.ipynb>
 
+<http://localhost:8888/notebooks/homework4.ipynb>
+
 * The jupyter notebook was converted to a python script with the code below:
 
 ```bash
